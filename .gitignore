@@ -1,0 +1,120 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Data and Cache
+chroma_data/
+*.db
+*.sqlite
+.cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# OS
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Project specific
+results/
+outputs/
+experiments/
+runs/
+checkpoints/
+
+# API
+api_logs/
+api_cache/
+
+# Testing
+test_results/
+test_output/
+coverage_reports/
+
+# Memory and Analytics
+memory/
+analytics/
+stats/
+*.pkl
+*.pickle
+*.parquet
+
+# Ollama models
+ollama_models/
+models/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Backup files
+*.bak
+*.backup
+*~
+.swp
+.swo
+
+# Markdown files
+*.md
+
